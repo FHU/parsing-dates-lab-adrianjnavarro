@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "main_april_test.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "main_dec_test.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "main_jan_test.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "main_july_test.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "main_june_test.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "main_march_test.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "main_may_test.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "main_nov_test.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "main_oct_test.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "main_sept_test.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
