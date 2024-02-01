@@ -32,6 +32,6 @@ def parse_date(user_string):
 if __name__ == '__main__':
     user_string = input()
     formatted_date = parse_date(user_string)
-
+    
     print(formatted_date)
     
