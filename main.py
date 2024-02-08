@@ -21,7 +21,7 @@ def parse_date(user_string):
 
     if len(words) >= 3:
         month = parse_month(words[0])
-        day = words[1].rstrip(',')
+        day = words[1].rstrip(',').zfill(2)
         year = words[2]
 
         if month and day.isdigit() and year.isdigit():
